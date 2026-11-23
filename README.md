@@ -1,5 +1,7 @@
 # 📺 DiPlay: CarPlay en tu pantalla Android (BYD) sin dongle — guía rápida
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 [![Stars](https://img.shields.io/github/stars/shihabal3amri/DiPlay?style=social)](https://github.com/shihabal3amri/DiPlay/stargazers) ![License](https://img.shields.io/badge/licencia-MIT-green.svg) ![Languages](https://img.shields.io/badge/idiomas-ES%20%C2%B7%20PT-blue)
 
 Apoyo y más: [GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — plantillas y cuadernos que uso](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
